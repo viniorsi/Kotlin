@@ -1,6 +1,7 @@
 package br.com.alura.AluGames.Modelo
 
 import java.lang.IllegalArgumentException
+import java.time.LocalDate
 import java.util.Scanner
 import kotlin.random.Random
 
@@ -18,6 +19,8 @@ data class Gamer(var nome: String, var email:String){
     var idInterno:String? = null
         private set
     val jogosBuscados = mutableListOf<Jogo?>()
+    val jogosAlugados:MutableList<Aluguel> = mutableListOf<Aluguel>()
+    var plano: PlanoAvulso = PlanoAvulso("BRONZE")
 
 
     constructor(nome: String,email: String,dataNascimento:String, usuario:String):
@@ -77,9 +80,11 @@ data class Gamer(var nome: String, var email:String){
         }
     }
 
-    fun alugaJogo(jogo: Jogo): Aluguel {
+    fun alugaJogo(jogo: Jogo, periodo:Periodo): Aluguel {
 
-        return Aluguel(this,jogo)
+       val aluguel = Aluguel(this,jogo,periodo)
+        jogosAlugados.add(aluguel)
+        return aluguel
 
     }
 

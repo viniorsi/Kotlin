@@ -13,6 +13,7 @@ data class Jogo(val titulo:String, var capa:String) {
         return "Meu br.com.alura.AluGames.Modelo.Jogo: \n" +
                 "Titulo: $titulo \n" +
                 "capa: $capa \n" +
+                "Preço: $preco\n"+
                 "descricao: $descricao"
     }
 
