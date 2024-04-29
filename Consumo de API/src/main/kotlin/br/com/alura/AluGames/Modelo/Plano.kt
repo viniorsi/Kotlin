@@ -1,10 +1,12 @@
 package br.com.alura.AluGames.Modelo
 
-open class Plano(val tipo:String) {
+import java.math.BigDecimal
 
-    fun obterValor(aluguel: Aluguel): Double{
+sealed class Plano(val tipo:String) {
 
-        return  aluguel.jogo.preco*aluguel.periodo.emDias
+    open fun obterValor(aluguel: Aluguel): BigDecimal{
+
+        return  aluguel.jogo.preco*aluguel.periodo.emDias.toBigDecimal()
 
     }
 
