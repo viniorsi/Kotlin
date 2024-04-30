@@ -5,20 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d5579f88-61a8-4efc-8adc-8f3987161188" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/Recomendavel.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/Gamer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/Gamer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/Jogo.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/Jogo.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/Plano.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/Plano.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/PlanoAssinatura.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/PlanoAssinatura.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/PlanoAvulso.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Modelo/PlanoAvulso.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Principal/TesteJson.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/br/com/alura/AluGames/Principal/TesteJson.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Aluguel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Aluguel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Gamer$Companion.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Gamer$Companion.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Gamer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Gamer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/Jogo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/PlanoAvulso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Modelo/PlanoAvulso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Principal/TesteJsonKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/alura/AluGames/Principal/TesteJsonKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,11 +42,12 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/vinicius.orsi/Desktop/Estudos/Kotlin/Consumo de API",
+    "last_opened_file_path": "C:/Users/vinicius.orsi/Desktop/Estudos/forum",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,7 +77,7 @@
       <workItem from="1712941467307" duration="2938000" />
       <workItem from="1713286233373" duration="1227000" />
       <workItem from="1714397126608" duration="51000" />
-      <workItem from="1714397323803" duration="4997000" />
+      <workItem from="1714397323803" duration="6090000" />
     </task>
     <servers />
   </component>
